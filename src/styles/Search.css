@@ -1,0 +1,27 @@
+.search-form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.search-form__input {
+  width: 20%;
+  height: 50px;
+  border-radius: 11px;
+  font-size: 20px;
+  padding: 0 10px;
+}
+
+.search-form__button {
+  margin: 10px 0 0 10px;
+  height: 35px;
+  width: 80px;
+  border-radius: 11px;
+  font-size: 15px;
+  background-color: lightgray;
+}
+
+.search-form__button:hover {
+  background-color: rgb(107, 107, 107);
+  color: white;
+}
