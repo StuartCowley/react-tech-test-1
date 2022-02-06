@@ -4,6 +4,8 @@ NASA Technical Test completed as part of Front-End Module for Manchester Codes. 
 
 Application is build in conjuction with HTML and CSS.
 
+You can see the UI version [here](https://naylfc90.github.io/react-tech-test/).
+
 [![rtt-screenshot.png](https://i.postimg.cc/htBgpyXp/rtt-screenshot.png)](https://postimg.cc/qzj97GX3)
 
 In the project directory, you can run:
