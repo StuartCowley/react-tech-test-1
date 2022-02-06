@@ -4,7 +4,7 @@ NASA Technical Test completed as part of Front-End Module for Manchester Codes. 
 
 Application is build in conjuction with HTML and CSS.
 
-[![rtt-screenshot.png](https://i.postimg.cc/htBgpyXp/rtt-screenshot.png)](https://postimg.cc/qzj97GX3)
+[![rtt-screenshot.png](https://i.postimg.cc/htBgpyXp/rtt-screenshot.png)]
 
 In the project directory, you can run:
 
