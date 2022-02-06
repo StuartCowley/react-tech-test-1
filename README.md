@@ -8,6 +8,11 @@ You can see the UI version [here](https://naylfc90.github.io/react-tech-test/).
 
 [![rtt-screenshot.png](https://i.postimg.cc/htBgpyXp/rtt-screenshot.png)](https://postimg.cc/qzj97GX3)
 
+## What would I do with more time?
+
+- I would like to format CSS to allow user to view image full screen
+- I would like to format the page to provide suitable viewing on mobile devices
+
 In the project directory, you can run:
 
 ### `npm start`
